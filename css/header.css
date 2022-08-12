@@ -1,0 +1,35 @@
+.header__top__line {
+    background-color: var(--background-color-in-top-line);
+    width: 1200px;
+    height:50px;
+    display: flex;
+    flex-direction: row;
+    align-items:center
+}
+
+.text__links__in__header__top__line  a {
+text-decoration: none;
+color: var(--text-color-in-top-line);
+}
+
+.info__in__header__top__line {
+    padding-left: 75px;
+    align-items: flex-start;
+    text-align:center
+    background-color: var(--background-color-in-top-line);
+    color:var(--text-color-in-top-line);
+    width: 70%;
+    
+}
+
+.text__links__in__header__top__line {
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+  display: flex;
+  flex-direction: row;
+}
+
+.number__tel__text__links__in__header__top__line {
+    padding-left: 20px;
+}
