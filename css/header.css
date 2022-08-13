@@ -75,7 +75,9 @@ color: var(--text-color-in-top-line);
    width: 230px;
    height: 70px;;
    text-align: center;
-   align-items: center;
-   
-    
+   align-items: center; 
+}
+
+.links__top__header {
+text-decoration: none;
 }
